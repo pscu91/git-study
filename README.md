@@ -3,3 +3,5 @@
 # git-study
 hello world - hajime
 push push
+
+hi, I'm Tomato.
